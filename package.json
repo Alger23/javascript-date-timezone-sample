@@ -1,0 +1,29 @@
+{
+  "name": "date-sample",
+  "version": "1.0.0",
+  "description": "use date-fns parse & format date in timezone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alger23/date-fns-sample.git"
+  },
+  "keywords": [
+    "date-fns",
+    "format",
+    "parse",
+    "timezone"
+  ],
+  "author": "alger.chen23@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alger23/date-fns-sample/issues"
+  },
+  "homepage": "https://github.com/Alger23/date-fns-sample#readme",
+  "dependencies": {
+    "date-fns": "^2.25.0",
+    "date-fns-tz": "^1.1.6"
+  }
+}
