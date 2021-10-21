@@ -24,6 +24,10 @@
   "homepage": "https://github.com/Alger23/date-fns-sample#readme",
   "dependencies": {
     "date-fns": "^2.25.0",
-    "date-fns-tz": "^1.1.6"
+    "date-fns-tz": "^1.1.6",
+    "dayjs": "^1.10.7",
+    "luxon": "^2.0.2",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33"
   }
 }

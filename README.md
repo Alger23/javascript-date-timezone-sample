@@ -2,7 +2,10 @@
 Nodejs 13+ allows for setting process.env.TZ and having it affect new Dates created at runtime. 
 
 ```
-node index.js
+node sample-date-fns.js
+node sample-dayjs.js
+node sample-luxon.js
+node sample-moment.js
 ```
 
 ```
